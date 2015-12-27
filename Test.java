@@ -6,6 +6,6 @@ class Test
    {
      System.out.println("Hello World!");
      System.out.println("End of files!");
-	 System.out.println("New line");
+     System.out.println("New line");
    }
 }
